@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023TXCHA",
+      "defaultValue": "2023txcha",
       "required": "true",
       "disabled": "true"
     },
